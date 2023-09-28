@@ -6,6 +6,7 @@
 - clang-format
 - Makefile
 - gcc
+- gtest
 
 # Примененные паттерны
 - MVC
