@@ -1,0 +1,12 @@
+key1 "Vasiliev" "Ivan" 2001 "Rostov" 55
+key2 "Ivanov" "Vasiliy" 2000 "Moscow" 100
+key3 "Petrov" "Petr" 1998 "Kazan" 200
+key4 "Semenov" "Semen" 2003 "Elabuga" 300
+key5 "Krasnov" "Red" 2002 "Piter" 400
+key6 "Suleimanov" "Suleiman" 1994 "Istanbul" 500
+key7 "Fachrutdinov" "Fahrut" 1995 "Berlin" 600
+key8 "Makarov" "Sergey" 1998 "Kazan" 700
+key9 "Mironov" "Miron" 1995 "Moscow" 800
+"Mironov" "Miron" 1995 "Moscow" 800
+key10 "Mironov" "Miron" DSF "Moscow" 800
+key9 "Mironov" "Miron" 1995 "Moscow" 800
